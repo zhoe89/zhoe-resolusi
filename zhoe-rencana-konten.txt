@@ -1,5 +1,7 @@
 RENCANA KONTEN ZHOE
 - Javascript
+  * ES6
+  * Framework Javascript
 - PHP Frameworks
 - Interview
 - Vlogs
